@@ -1,5 +1,5 @@
 # Budget Performance Audit Dashboard — Zentra Dynamics (Excel)
-
+![Dashboard Overview](screenshots/01_dashboard_overview.png)
 ## Project Overview
 This project simulates an executive-level **Budget vs Actual performance monitoring** solution for a mid-sized organization operating across multiple regions and departments in Canada.
 
