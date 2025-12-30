@@ -6,9 +6,10 @@ This project simulates an executive-level **Budget vs Actual performance monitor
 The goal is to provide a **decision-ready dashboard** that helps finance and business leaders quickly identify budget deviations, cost overruns, and areas for improvement.
 
 ### Quick Links
-- 📊 Dashboard (Excel): `dashboard/Zentra_Budget_Performance_Dashboard.xlsx`
-- 📄 Executive Summary: `documentation/Executive_Summary.pdf`
-- 🧠 Methodology: `documentation/Methodology_Workflow.pdf`
+- 📊 **Dashboard (Excel)** — [Open file](dashboard/Zentra_Budget_Performance_Dashboard.xlsx)
+- 📄 **Executive Summary** — [View PDF](documentation/Executive_Summary.pdf)
+- 🧠 **Methodology** — [View PDF](documentation/Methodology_Workflow.pdf)
+
 
 ## Business Problem
 Zentra Dynamics lacked a centralized and visual way to monitor budget execution. Reporting was fragmented and reactive, limiting visibility into:
