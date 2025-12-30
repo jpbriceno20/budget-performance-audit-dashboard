@@ -7,6 +7,13 @@ This project simulates an executive-level **Budget vs Actual performance monitor
 
 The goal is to provide a **decision-ready dashboard** that helps finance and business leaders quickly identify budget deviations, cost overruns, and areas for improvement.
 
+**At a glance:**
+- Overall spending finished **1.33% under budget** ($21,632 favorable variance)
+- Cost overruns were concentrated in **Software, Repairs, and Training**
+- **Montreal and Toronto** showed the strongest budget adherence
+- Budget deviations varied by month, suggesting **seasonal or project-driven patterns**
+
+
 ### Quick Links
 - 📊 **Dashboard (Excel)** — `dashboard/Zentra_Budget_Performance_Dashboard.xlsx`
 - 📄 **Executive Summary** — `documentation/Executive_Summary.md`
